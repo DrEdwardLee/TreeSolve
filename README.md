@@ -4,3 +4,13 @@ Normally solving these kinds of problems is computationally very difficult - sol
 So all modelling software - including commercial solvers - make simplifications to the geometry and the mathematics in order to make these problems solvable.
 
 The purpose of this software is to help investigate the effects of varying different parameters on the model solutions.
+
+This work was presented at the following conferences:
+  
+  Assessing the relative influence of vascular branching structure on pulmonary blood flow distribution via computational models
+  T Doel, KS Burrowes, JP Whiteley, V Grau, DJ Gavaghan
+  IUPS, Journal of Physiological Sciences 59, 224 (2009)
+  
+  Assessing the Relative Influence of Branching Structure on Pulmonary Blood Flow with Computational Models.
+  T Doel, K Burrowes, J Whiteley, V Grau, D Gavaghan
+  ATS, AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE 179 (2009)
