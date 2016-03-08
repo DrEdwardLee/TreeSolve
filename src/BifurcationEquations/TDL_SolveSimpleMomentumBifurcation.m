@@ -1,11 +1,11 @@
-function [new_parent_point, new_child_point_1, new_child_point_2] = TDL_SolveSimpleMomentumBifurcation(...
+function [new_parent_point, new_child_point_1, new_child_point_2] = TDL_SolveSimpleMomentumBifurcation(parent_vessel, child_vessel_1, child_vessel_2, parameters)
     % TDL_SolveSimpleMomentumBifurcation Funtion for use with TDL_SolveVesselTree to solve solve bifurcation equations using momentum conservation equations
     %
     %     Author: Tom Doel www.tomdoel.com
     %     Part of TreeSolve. http://github.com/tomdoel/TreeSolve
     %     Distributed under the GNU GPL v3 licence. Please see LICENSE file.
     %    
-    parent_vessel, child_vessel_1, child_vessel_2, parameters)
+    
       
     % Starting guess: use previous values
     p_vector_guess = [parent_vessel.p(end); child_vessel_1.p(1); child_vessel_2.p(1)];
