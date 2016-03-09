@@ -13,4 +13,4 @@ This work was presented at the following conferences:
   
   Assessing the Relative Influence of Branching Structure on Pulmonary Blood Flow with Computational Models.
   T Doel, K Burrowes, J Whiteley, V Grau, D Gavaghan
-  ATS, AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE 179 (2009)
+  ATS, American Journal of Respiratory and Critical Care Medicine 179 (2009)
